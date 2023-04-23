@@ -21,3 +21,7 @@ section {
   align-content: center;
   min-height: 100vh;
 }
+
+form {
+    z-index: 0;
+}
